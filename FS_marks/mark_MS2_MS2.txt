@@ -1,0 +1,125 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Check script passed. Marking on 50%-100%
+--------------------------------------------------------------------------------
+Marking 'MS2'...
+Searching for test cases for: MS2
+7 test cases found for 'MS2' in '~/markcases'
+'assg_MS2' compiled successfully.
+
+Testing using '~/markcases/16_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 120001 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 89.61711120605469
+Retrying to try to account for environment differences
+PPMCMP: 89.61711120605469
+Error: output is incorrect:
+
+Testing using '~/markcases/17_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 120001 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.014318286441266537
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/14_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 240002 errors from 3 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/15_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 307201 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.00011276371515123174
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/12_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 360002 errors from 3 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.000861214124597609
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/13_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 41402 errors from 3 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/11_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 307201 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0015110339736565948
+Success: output is correct
+No memory leaks
+Giving full marks
+--------------------------------------------------------------------------------
+END: Final grade: 6/7 = 92%
+--------------------------------------------------------------------------------
+

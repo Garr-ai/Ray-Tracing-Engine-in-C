@@ -1,0 +1,185 @@
+--------------------------------------------------------------------------------
+START
+--------------------------------------------------------------------------------
+Check script passed. Marking on 50%-100%
+--------------------------------------------------------------------------------
+Marking makefile
+Testing MS1_assg
+MS1 exit code nonzero: size
+Testing MS2_assg
+PPMCMP: 223.4716339111328
+MS2 incorrect output
+Testing FS_assg
+PPMCMP: 0.0
+FS works correctly
+All executables were created (regardless of functionality)
+
+
+Marking 'FS'...
+Searching for test cases for: FS
+10 test cases found for 'FS' in '~/markcases'
+'assg_FS' compiled successfully.
+
+Testing using '~/markcases/19_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 10801 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.08066926151514053
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/18_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 901 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/11_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 2764801 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0011942519340664148
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/12_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 3240001 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.005474107339978218
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/110_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 2764801 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 4.4700685975840315e-05
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/13_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 372601 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/111_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 1729 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/14_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 2160001 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/15_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 2764801 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0009003127343021333
+Success: output is correct
+No memory leaks
+Giving full marks
+
+Testing using '~/markcases/16_input.txt'...
+==== WARNING ====
+Valgrind detected memory errors:
+ERROR SUMMARY: 1080001 errors from 2 contexts
+This does not directly dock you marks, but indicates that
+there is undefined behaviour that may cause issues in the future
+For more info, compile your program and run
+valgrind ./[program name] [input] [output]
+For example,
+valgrind ./bin/assg MS1_Testcases/11_input.txt /dev/null
+==== END WARNING ====
+PPMCMP: 0.0
+Success: output is correct
+No memory leaks
+Giving full marks
+--------------------------------------------------------------------------------
+END: Final grade: 12/14 = 92%
+--------------------------------------------------------------------------------
+
